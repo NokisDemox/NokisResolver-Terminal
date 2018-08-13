@@ -1,2 +1,2 @@
-v1.2.1
+v1.2.2 -> 32 & 64 bits
 much more info in the pdf
